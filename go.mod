@@ -10,7 +10,6 @@ require (
 	github.com/m-mizutani/ttlcache v0.0.0-20221002000443-65210d970318
 	github.com/m-mizutani/zlog v0.3.2
 	github.com/urfave/cli/v2 v2.16.3
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
 )
 
 require (
